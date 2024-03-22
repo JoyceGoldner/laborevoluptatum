@@ -1,0 +1,20 @@
+{
+  "name": "laborevoluptatum",
+  "version": "1.0.0",
+  "description": "Minimalistic tools for JS crypto modules",
+  "main": "lib/utils.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoyceGoldner/laborevoluptatum.git"
+  },
+  "keywords": [
+    "voluptas",
+    "utils",
+    "crypto"
+  ],
+  "author": "ArnoldoDach",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
